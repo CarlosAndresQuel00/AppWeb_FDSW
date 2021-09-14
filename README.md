@@ -1,13 +1,13 @@
 # Jamafud
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 El siguiente proyecto muestra el desarrollo de una Aplicación Web que permite a usuarios generar un presupuesto y una lista de ingredientes en base a un menú semanal escogido.
-<br/>**Video demostrativo:** https://youtu.be/qtX4d4mzTR8
+<br/>**Video:** https://youtu.be/qtX4d4mzTR8
 <br/>**Realizado por:**
 <br/> - Alejandro Armas
 <br/> - Carlos Quel
 
 ## 1. Herramientas de Desarrollo
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### NODEJS
 Su uso permite instalar los paquetes necesarios para React y obtener librerías específicas para el desarrollo de _front-end_.
 
@@ -21,7 +21,7 @@ Su uso permite levantar un servidor local que ayuda a conectar herramientas como
 Su uso permite dos partes importantes, la primera es hacer testings a los endpoints como el de autenticación y de ingreso de datos a la API y la segunda es ver como llegan o se reciben los datos al realizar una petición al API.
 
 ## 2. Estructura y arquitectura
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### ° Arquitectura
 
 La Arquitectura de la Aplicación web se meustra en la siguiente imagen.
@@ -32,7 +32,7 @@ Los datos almacenados en Laravel con MySQL muestran la siguiente estructura.
 ![image](https://user-images.githubusercontent.com/66259796/133201645-a714a2f8-2292-48c2-9e7a-6bc20d612426.png)
 
 ## 3. Funcionalidades principales
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dentro del desarroLlo de la Aplicación Web se pudo recabar varios requerimientos y funcionalidades para la Aplicación Web, algunas de las más importantes son las siguientes:
 
 ### ° Iniciar sesión y registro de usuarios
@@ -66,11 +66,12 @@ Muestra el detalle de un platillo a través de un modal dentro del aplicación w
 ![image](https://user-images.githubusercontent.com/66259796/133204291-09060757-b50c-4908-abf4-b2491eb9125b.png)
 
 ## 4. Versión de Desarrollo
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/66259796/133205110-27ca9146-0ec8-4031-828f-2389b115022e.png)
+![image](https://user-images.githubusercontent.com/66259796/133212606-c5461691-3b44-4789-b013-f8d80e3a1374.png)
 
 ## 5. Instalación
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 1. Clonar el Repositorio _front-end_
 
 ```bash
@@ -104,5 +105,5 @@ php artisan serve
 ```
 
 ## 6. Anexos
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-En el siguiente link se encuentra toda la documentacion como Manual Técnico, Manual de Usuarios, Informe Técnico y los diferentes anexos del proyecto. <a href="https://github.com/Migueltorresp/Documentacion_Tesis">Link</a>
+
+En el siguiente link se encuentra toda la documentacion como Manual Técnico, Manual de Usuarios, Informe Técnico y los diferentes anexos del proyecto. <a href="https://github.com/CarlosAndresQuel00/Documentacion_FDSW">Link</a>
