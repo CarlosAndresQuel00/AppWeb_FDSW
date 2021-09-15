@@ -1,7 +1,7 @@
 # Jamafud
 
 El siguiente proyecto muestra el desarrollo de una Aplicación Web que permite a usuarios generar un presupuesto y una lista de ingredientes en base a un menú semanal escogido.
-<br/>**Video:** https://youtu.be/qtX4d4mzTR8
+<br/>**Video:** https://youtu.be/wxyQoMb3b8I
 <br/>**Realizado por:**
 <br/> - Alejandro Armas
 <br/> - Carlos Quel
